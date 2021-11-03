@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   ![.Net](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/Oracle-333333?style=for-the-badge&logo=oracle&logoColor=F80000)
+  ![Oracle](https://img.shields.io/badge/Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio 2019](https://img.shields.io/badge/-Visual%20Studio%202019-333333?style=flat&logo=visual-studio-2019&logoColor=8A2BE2)
-  ![Spring](https://img.shields.io/badge/spring-333333?style=for-the-badge&logo=spring&logoColor=6DB33F)
+  ![Spring](https://img.shields.io/badge/spring-333333?style=flat&logo=spring&logoColor=6DB33F)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
